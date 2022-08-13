@@ -1,6 +1,8 @@
 # calculadora_vuejs
 
 ### Criação de uma calculadora utilizando VueJS
+### Teste o projeto: https://calculadoravuejs.netlify.app/
+### Vídeo funcional: https://youtu.be/s4FKoki6vlQ
 ## Project setup
 ```
 npm install
